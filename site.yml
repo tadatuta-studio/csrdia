@@ -1,0 +1,35 @@
+siteName: ЦСРДИА
+description: Центр социальной реабилитации детей-инвалидов г. Алушты
+
+pages:
+  - slug: index
+    source: content/index.md
+    title: Главная
+  - slug: about
+    source: content/about.md
+    title: Информация о Центре
+  - slug: activities
+    source: content/activities.md
+    title: Направления реабилитационной работы
+  - slug: projects
+    source: content/projects.md
+    title: Наши проекты
+
+  - slug: project1
+    source: content/projects/project1.md
+    title: Я через сердце вижу мир
+    hidden: true
+  - slug: project2
+    source: content/projects/project2.md
+    title: Прояви Внимание
+    hidden: true
+  - slug: project3
+    source: content/projects/project3.md
+    title: Творим от сердца
+    hidden: true
+  - slug: project4
+    source: content/projects/project4.md
+    title: Добровольцы: направления работы
+    hidden: true
+
+outputDir: site
