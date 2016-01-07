@@ -4,7 +4,8 @@ description: Государственное бюджетное учрежден�
 pages:
   - slug: index
     source: content/index.md
-    title: Главная
+    title: Реабилитационный центр г. Алушты
+    navTitle: Главная
   - slug: about
     source: content/about.md
     title: Информация о Центре
